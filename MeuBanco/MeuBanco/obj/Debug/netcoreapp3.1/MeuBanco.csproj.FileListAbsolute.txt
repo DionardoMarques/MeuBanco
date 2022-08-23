@@ -1,0 +1,11 @@
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.exe
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.deps.json
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.runtimeconfig.json
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.runtimeconfig.dev.json
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.dll
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\bin\Debug\netcoreapp3.1\MeuBanco.pdb
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\obj\Debug\netcoreapp3.1\MeuBanco.csprojAssemblyReference.cache
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\obj\Debug\netcoreapp3.1\MeuBanco.AssemblyInfoInputs.cache
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\obj\Debug\netcoreapp3.1\MeuBanco.AssemblyInfo.cs
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\obj\Debug\netcoreapp3.1\MeuBanco.dll
+C:\Users\631910221\source\repos\MeuBanco\MeuBanco\obj\Debug\netcoreapp3.1\MeuBanco.pdb
