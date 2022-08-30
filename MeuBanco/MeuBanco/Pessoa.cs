@@ -4,8 +4,8 @@ using System.Text;
 
 namespace MeuBanco
 {
-    //Declarando uma classe pública
-    public class Pessoa
+    //Declarando uma classe pública e abstrata, ou seja, não será possível instanciar um objeto desta classe
+    public abstract class Pessoa
     {
         //Tornando as variáveis acessíveis através do método public, assim é possível modificá-las em outra classe.
         //Podemos modificar as propriedades através do { get; set; }
@@ -23,6 +23,20 @@ namespace MeuBanco
             }
         }
 
+        public int idade { get; set; }
+
+        //
+        public Pessoa() { }
+
+        //Definição de um método construtor
+        public Pessoa(string nome, string telefone, string endereco)
+        {
+            this.Nome = nome;
+            this.Telefone = telefone;
+            this.Endereco = endereco;
+            idade = 0;
+        }
+
         //Controlando o nível de acesso à variável nome
         //public string Nome()
         //{
@@ -38,7 +52,7 @@ namespace MeuBanco
         public void Imprimir()
         {
             // cw 2x tab snippet para o comando Console.WriteLine()
-            Console.WriteLine("Nome: " + nome + ", Telefone: " + Telefone + ", Endereço: " + Endereco);
+            Console.WriteLine("Nome: " + nome + ", Telefone: " + Telefone + ", Endereço: " + Endereco + ", Idade: " + idade);
         }
     }
 }
